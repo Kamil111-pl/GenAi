@@ -2421,7 +2421,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/Kamil111-pl/GenAi/blob/main/HW1/trial_b.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/Kamil111-pl/GenAi/blob/main/HW1\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -2437,7 +2437,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 1,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -2480,7 +2480,7 @@
       "metadata": {
         "id": "1DbCmV8N0B-J"
       },
-      "execution_count": null,
+      "execution_count": 2,
       "outputs": []
     },
     {
@@ -2579,7 +2579,7 @@
         "id": "OKods8xY0LTj",
         "outputId": "a244754e-fb08-48d6-8f56-62dca60746ec"
       },
-      "execution_count": null,
+      "execution_count": 3,
       "outputs": [
         {
           "output_type": "stream",
@@ -2743,7 +2743,7 @@
         "id": "2wveZ60G0Lsa",
         "outputId": "9dc6cb6a-a90b-4080-d72c-1e0a0483da41"
       },
-      "execution_count": null,
+      "execution_count": 4,
       "outputs": [
         {
           "name": "stdout",
@@ -2773,7 +2773,7 @@
         "id": "1jQEgGew0MMq",
         "outputId": "e2cc0da1-4d8b-436b-da4f-964cf05d36a8"
       },
-      "execution_count": null,
+      "execution_count": 5,
       "outputs": [
         {
           "output_type": "stream",
@@ -2825,7 +2825,7 @@
         "id": "CAw4c-n30MqF",
         "outputId": "78fd7634-aaf6-42a4-8ceb-1c48e1c6f7af"
       },
-      "execution_count": null,
+      "execution_count": 6,
       "outputs": [
         {
           "output_type": "stream",
@@ -2859,7 +2859,7 @@
         "id": "ccRVQIqo0M6a",
         "outputId": "4ae72d29-fb30-4739-daae-45612d178f84"
       },
-      "execution_count": null,
+      "execution_count": 7,
       "outputs": [
         {
           "output_type": "stream",
@@ -2888,7 +2888,7 @@
         "id": "Q_MKulBK0NJ5",
         "outputId": "a53eecc8-a0fa-4c40-8da7-a8bee7238fd0"
       },
-      "execution_count": null,
+      "execution_count": 8,
       "outputs": [
         {
           "output_type": "stream",
@@ -2920,7 +2920,7 @@
         "id": "41iYuGbL0NaT",
         "outputId": "221905fe-cb8a-4b2b-b4c8-742fe09b65b9"
       },
-      "execution_count": null,
+      "execution_count": 9,
       "outputs": [
         {
           "output_type": "stream",
@@ -2972,7 +2972,7 @@
         "id": "uWSGxho-0mV-",
         "outputId": "f91e21f3-0463-4a5c-9ca9-e5d5517a41f9"
       },
-      "execution_count": null,
+      "execution_count": 12,
       "outputs": [
         {
           "output_type": "stream",
@@ -3007,24 +3007,24 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "lGYt9bPL0mnL",
-        "outputId": "9c43ba82-f10b-49cc-bb39-629181fe4419"
+        "outputId": "1bc855c2-4c04-4d2b-e2ed-059920946357"
       },
-      "execution_count": null,
+      "execution_count": 14,
       "outputs": [
         {
           "output_type": "stream",
           "name": "stdout",
           "text": [
-            "The Mclarens Formula 1 engine screamed during a race at Monaco and this\n",
-            "The Mclarens Formula 1 engine screamed during a race at Monaco and this is\n",
-            "The Mclarens Formula 1 engine screamed during a race at Monaco and this is when\n",
-            "The Mclarens Formula 1 engine screamed during a race at Monaco and this is when it\n",
-            "The Mclarens Formula 1 engine screamed during a race at Monaco and this is when it was\n",
-            "The Mclarens Formula 1 engine screamed during a race at Monaco and this is when it was revealed\n",
-            "The Mclarens Formula 1 engine screamed during a race at Monaco and this is when it was revealed that\n",
-            "The Mclarens Formula 1 engine screamed during a race at Monaco and this is when it was revealed that the\n",
-            "The Mclarens Formula 1 engine screamed during a race at Monaco and this is when it was revealed that the M\n",
-            "The Mclarens Formula 1 engine screamed during a race at Monaco and this is when it was revealed that the Mcl\n"
+            "The Mclarens Formula 1 engine screamed during a race at Monaco and was\n",
+            "The Mclarens Formula 1 engine screamed during a race at Monaco and was the\n",
+            "The Mclarens Formula 1 engine screamed during a race at Monaco and was the first\n",
+            "The Mclarens Formula 1 engine screamed during a race at Monaco and was the first car\n",
+            "The Mclarens Formula 1 engine screamed during a race at Monaco and was the first car to\n",
+            "The Mclarens Formula 1 engine screamed during a race at Monaco and was the first car to use\n",
+            "The Mclarens Formula 1 engine screamed during a race at Monaco and was the first car to use the\n",
+            "The Mclarens Formula 1 engine screamed during a race at Monaco and was the first car to use the engine\n",
+            "The Mclarens Formula 1 engine screamed during a race at Monaco and was the first car to use the engine from\n",
+            "The Mclarens Formula 1 engine screamed during a race at Monaco and was the first car to use the engine from the\n"
           ]
         }
       ]
